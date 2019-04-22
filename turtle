@@ -75,3 +75,7 @@ if __name__ == '__main__':
     bob.lt(90)
     bob.pd()            ### pen down
     circle(bob, radius)
+
+
+    # wait for the user to close the window
+    turtle.mainloop()
